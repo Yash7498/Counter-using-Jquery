@@ -1,0 +1,22 @@
+
+.container-fluid{
+    margin: 260px;
+    text-align: center;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 400%;
+}
+
+.btn-group{
+    padding-top: 1.8%;
+}
+
+.result{
+    color: green;
+    font-weight: bold;
+    line-height: 1.8;
+    font-size: 340%;
+}
+
+
